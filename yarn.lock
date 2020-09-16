@@ -8201,10 +8201,10 @@ react-scripts@3.1.1:
   optionalDependencies:
     fsevents "2.0.7"
 
-react-use-clipboard@0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/react-use-clipboard/-/react-use-clipboard-0.2.0.tgz#717973511e129fb6145dfeddc71bee4e9addc35d"
-  integrity sha512-Kj8/pEhSg+InicEb7xQwvF61CBxzbhLiljAIBNFQmN/6SdJa3zOjcGHUoyh4o3HHL2Z+oRZBl0dqvwR21dssaQ==
+react-use-clipboard@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-use-clipboard/-/react-use-clipboard-1.0.1.tgz#9e774b9c8e06a1497838085e3bfe2e1c6c0d6cf6"
+  integrity sha512-c9lYIdyndVF+rMIHUvZSeoqlFw/NsongkrCtbRLnODsuYe1kIV7oIFRjj5H51SBMOWUNbFHPRTfn10LbHswidw==
   dependencies:
     copy-to-clipboard "^3.0.8"
 
